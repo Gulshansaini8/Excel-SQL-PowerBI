@@ -1,6 +1,6 @@
 # 🛍️ Airbnb Data Analysis & Dashboard
 
-- Designed an end-to-end project to connect and import Airbnb data from MySQL into Power BI for analysis and visualization.
+- Designed an end-to-end project to connect and import Airbnb data from CSV file into MySQL and then into Power BI for analysis and visualization.
 - Faced and resolved real-world issues such as secure_file_priv errors, NULL values, duplicate rows, and primary key constraints during data import.
 - Cleaned and preprocessed 100,000+ records: handled date formatting (STR_TO_DATE), removed duplicates using ROW_NUMBER(), and manually defined schema with appropriate data types.
 - Built normalized table structure in MySQL with proper constraints and loaded data using LOAD DATA INFILE.
